@@ -67,7 +67,7 @@ It is the standard tooling for the Angular development
 - Command line interface for creating Angular apps
 
 ```java
-	ng new my-app
+    ng new my-app
 ```
 
 - It is a dev server

@@ -1,3 +1,8 @@
 .add-form {
     margin-bottom: 40px;
 }
+
+.form-day-time {
+    display: flex;
+    gap: 15px;
+}

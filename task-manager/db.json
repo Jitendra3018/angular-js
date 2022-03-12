@@ -20,13 +20,6 @@
       "day": "May 7th",
       "reminder": false,
       "time": "12:30pm"
-    },
-    {
-      "text": "Test",
-      "day": "May 8",
-      "time": "5:30pm",
-      "reminder": true,
-      "id": 4
     }
   ]
 }

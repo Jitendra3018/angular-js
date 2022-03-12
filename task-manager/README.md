@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Run `npm run server` for a backend 'tasks' server. Navigate to `http://localhost:5000/` to see all the existing and the updated tasks in the list.
+Run `npm run server` for a backend 'tasks' server. Navigate to `http://localhost:5000/tasks` to see all the existing and the updated tasks in the list.
 
 ## Code scaffolding
 
